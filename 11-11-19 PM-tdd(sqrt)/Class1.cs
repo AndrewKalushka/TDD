@@ -8,5 +8,6 @@ namespace _11_11_19_PM_tdd_sqrt_
 {
     public class Class1
     {
+        public int a = 1;
     }
 }
